@@ -6,7 +6,7 @@ breadcrumb: 'Ledger wallet'
 
 # {{ $frontmatter.title }}
 
-{{ $frontmatter.description }}. The Ledger Hardware Filecoin integration does not currently support BLS addresses, only `secp256k1`. BLS support is on the project roadmap and will be added soon. To set up your Ledger device, follow the steps below.
+{{ $frontmatter.description }}. The Ledger Hardware Filecoin integration does not currently support BLS addresses, only `secp256k1`. To set up your Ledger device, follow the steps below.
 
 ## Setup your Ledger device
 
